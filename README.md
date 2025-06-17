@@ -113,7 +113,10 @@ Columns: Name | Time | Date
 🧾 Daily summary reports via email
 
 🙋‍♂️ Author
+
 Solomon Goodwin Alexander
+
 📍 Nagpur, Maharashtra, India
+
 🔗 GitHub Profile
 🔗 LinkedIn Profile
