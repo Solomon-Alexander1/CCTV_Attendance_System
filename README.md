@@ -96,3 +96,20 @@ python encode_faces/encode_faces.py
 🎥 Start Attendance System
 python recognize_faces_final.py
 ```
+📊 Output Example:
+
+Excel file: Attendance_2025-06-10.xlsx
+Columns: Name | Time | Date
+
+🛠️ Future Enhancements:
+
+🖥️ Add GUI for admin panel
+🌐 Web-based dashboard
+🔔 Alert system for unknown faces
+🧾 Daily summary reports via email
+
+🙋‍♂️ Author
+Solomon Goodwin Alexander
+📍 Nagpur, Maharashtra, India
+🔗 GitHub Profile
+🔗 LinkedIn Profile
