@@ -88,12 +88,11 @@ pip install dlib‑19.22.99‑cp310‑cp310‑win_amd64.whl
 
 🚀 Usage
 ✍️ Registering New Faces
-
 python capture_image/capture_image.py
+
 🧠 Encode Face Data
-
 python encode_faces/encode_faces.py
+
 🎥 Start Attendance System
-
 python recognize_faces_final.py
-
+```
