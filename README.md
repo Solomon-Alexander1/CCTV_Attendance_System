@@ -111,6 +111,9 @@ Columns: Name | Time | Date
 
 ---
 
+🎥 **Demo Video**: [Click to watch](https://github.com/Solomon-Alexander1/CCTV_Attendance_System/blob/master/Final%20CCTV%20Attendance.mkv)
+
+
 ### 🙋‍♂️ Author
 
 **Solomon Goodwin Alexander**  
