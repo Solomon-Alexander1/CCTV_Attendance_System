@@ -7,27 +7,22 @@ An AI-based attendance system using face recognition technology that captures fa
 ## 📁 Project Structure
 
 CCTV_Attendance_System/
-│
 ├── attendance/ # Logs Excel/CSV attendance reports
-├── attendance1/ # (Optional backup/secondary log folder)
+├── attendance1/ # (Optional) Backup/secondary log folder
 ├── capture_image/ # Script to register new user images
 ├── encode_faces/ # Generates encodings from known faces
 ├── encodings/ # Pickled files for faster recognition
-├── known_faces/ # Directory of stored registered face images
+├── known_faces/ # Directory of registered face images
 ├── attendance_system/ # Main codebase (alternative structure)
-│
 ├── .dist/ # Build/cache-related folders (auto-generated)
-├── .venv/ # Python virtual environment
+├── .venv/ # Python virtual environment (optional)
 ├── dlib-19.22.99-...whl # Optional offline dlib wheel
 ├── encodings.pickle # Serialized face encodings
 ├── solomon_encoding.npy # NumPy array of face data
-│
 ├── recognize_faces_final.py # 🔴 Main face recognition & attendance script
-├── test.py # Test script for validation
-├── requirements.txt # All Python dependencies
-├── README.md # Project readme file
-
-
+├── test.py # Script for basic testing/validation
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
 
 ---
 
