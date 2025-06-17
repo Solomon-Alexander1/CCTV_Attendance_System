@@ -112,11 +112,21 @@ Columns: Name | Time | Date
 
 🧾 Daily summary reports via email
 
-🙋‍♂️ Author
 
-Solomon Goodwin Alexander
+---
 
-📍 Nagpur, Maharashtra, India
+### 🙋‍♂️ Author
 
-🔗 GitHub Profile
-🔗 LinkedIn Profile
+**Solomon Goodwin Alexander**  
+🎓 B.Tech in CSE (Data Science), St. Vincent Pallotti College of Engineering & Technology, Nagpur  
+📍 Nagpur, Maharashtra, India  
+
+🔗 [GitHub Profile](https://github.com/Solomon-Alexander1)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/solomon-alexander-184733170/)  
+📧 Email: solomonalex99210@gmail.com  
+
+---
+
+📜 **License**  
+This project is licensed under the **MIT License** – you are free to use, modify, and share it for personal or educational purposes.  
+
